@@ -1,16 +1,16 @@
-import React from 'react'
-import Contact from './Contact'
+import React from "react";
 
 const NavBar = () => {
   return (
     <div>
-        <ul className='flex bg-blend-color-dodge'>
-            <li>Perfil</li>
-            <li>Home</li>
-            <li><Contact/></li>
-        </ul>
+      <nav>
+        <a href="">Home</a>
+        <a href="">About us</a>
+        <a href="">Dashboard</a>
+        <a href="">Stats</a>
+      </nav>
     </div>
-  )
-}
+  );
+};
 
-export default NavBar
+export default NavBar;

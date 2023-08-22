@@ -1,20 +1,18 @@
 
+import react from 'react'
 import './App.css'
-import Home from './Components/Home'
+
 import NavBar from './Components/NavBar'
+import Header from './Components/Header'
+
 
 function App() {
-  const [cart, setCart] = useState(0)
- const addCart = (item) => {
-  setCart([...cart, item])
- }
+
   return (
     <>
-    <div id= "root">
+    <Header/>
     <NavBar/>
-    <Home addCart={data} />
-    <Card data={data}/>
-    </div>
+    
     </>
   )
 }
