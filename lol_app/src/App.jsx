@@ -1,20 +1,14 @@
-
-import react from 'react'
-import './App.css'
-
-import NavBar from './Components/NavBar'
-import Header from './Components/Header'
-
+import "./App.css";
+import SideBar from "./Components/SideBar";
+import Header from "./Components/Header";
 
 function App() {
-
   return (
-    <>
-    <Header/>
-    <NavBar/>
-    
-    </>
-  )
+    <div className="backgr">
+      <Header />
+      <SideBar />
+    </div >
+  );
 }
 
-export default App
+export default App;

@@ -1,0 +1,11 @@
+.li:hover{
+    cursor:pointer;
+
+}
+.li{
+    gap: 2rem;
+
+}
+.gradient{
+    background-image: linear-gradient(to top, #615dd3 0%, #3c51ba 100%);
+}
