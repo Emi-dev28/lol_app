@@ -1,0 +1,5 @@
+.bg_img{
+    background-image: url("/src/assets/Rectangle\ 1\ \(1\).png");
+    background-size: cover;
+    background-blend-mode: multiply;
+}

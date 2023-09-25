@@ -7,5 +7,11 @@
 
 }
 .gradient{
-    background-image: linear-gradient(to top, #615dd3 0%, #3c51ba 100%);
+    background-color: #221C2D;
+}
+.gradient-top{
+    background-color: #FFB485;
+}
+.color_nav{
+    background-color: #1d1a39;
 }

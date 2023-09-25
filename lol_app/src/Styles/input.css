@@ -1,3 +1,9 @@
 .gradient-input {
      background-image: linear-gradient(to right, #032648 0%, #001843 100%); 
 }
+.color-button{
+     background-color: #FF680A;
+}
+.color-header{
+     background-color: #06142E;
+}

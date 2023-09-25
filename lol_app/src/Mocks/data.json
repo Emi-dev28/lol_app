@@ -1,0 +1,32 @@
+[
+  {
+    "leagueId": "01336561-f93c-4419-9e2a-4c6c3cd5dd2c",
+    "queueType": "RANKED_FLEX_SR",
+    "tier": "GOLD",
+    "rank": "II",
+    "summonerId": "YzeU-3S8DOjzB6lhwgfXva1x64Wri6WxILzris6rQcv3NUTFwbYFcnMD0Q",
+    "summonerName": "indubbioproreo",
+    "leaguePoints": 58,
+    "wins": 14,
+    "losses": 4,
+    "veteran": false,
+    "inactive": false,
+    "freshBlood": false,
+    "hotStreak": false
+  },
+  {
+    "leagueId": "e50cff7a-3c2d-4cec-a35e-0b6967afe189",
+    "queueType": "RANKED_SOLO_5x5",
+    "tier": "GOLD",
+    "rank": "IV",
+    "summonerId": "YzeU-3S8DOjzB6lhwgfXva1x64Wri6WxILzris6rQcv3NUTFwbYFcnMD0Q",
+    "summonerName": "indubbioproreo",
+    "leaguePoints": 50,
+    "wins": 11,
+    "losses": 18,
+    "veteran": false,
+    "inactive": false,
+    "freshBlood": false,
+    "hotStreak": false
+  }
+]

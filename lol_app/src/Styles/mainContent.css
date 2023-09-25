@@ -1,0 +1,9 @@
+.background-image{
+    background-color: #161022;
+    background-image: url("../assets/Fondo.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    position:relative;
+    background-blend-mode:multiply;
+    
+}
